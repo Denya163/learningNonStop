@@ -1,6 +1,6 @@
 <script setup>
 
-import myRef from './components/myRef.vue';
+import myRef from '@/components/myRef.vue';
 
 </script>
 
