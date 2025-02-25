@@ -1,0 +1,19 @@
+// axios.get('htttp:/gh.com')
+// .then(response => {
+//     console.log('данные', response.data)
+// })
+// .catch(error => {
+//     console.error('ошибка запроса', error   )
+// });
+
+// axios.post('htttp:/gh.com', {
+//     name: 'john',
+//     emael: '@john.com',
+// })
+//     .then(response => {
+//         console.log('готово', response.data);
+//     })
+//     .catch(error => {
+//         console.error('ошибка', error)
+//     });
+
